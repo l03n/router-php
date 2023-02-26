@@ -1,0 +1,13 @@
+{
+    "name": "l03n/router-php",
+    "description": "A simple PHP Router",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "L03n\\RouterPhp\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
